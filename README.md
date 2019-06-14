@@ -4,7 +4,7 @@
 <div class="fm-short-company flexbox middle-xs">
 <h1 class="media-heading">
 <span class="ctrl ctrl_companyprofile" contenteditable="false" rel="ctrl ctrl_companyprofile">
-PT. Aura Abadi Cargo<span style="font-size: x-small;"> <a href="http://www.auraabadicargo.com/" target="_blank"><br /><span style="font-size: small;">http://www.auraabadicargo.com/</span></a></span><span style="font-size: small;">&nbsp;</span></span></h1>
+PT. Aura Abadi Cargo<span style="font-size: x-small;"> <a href="https://jasaexpedisidisurabaya.blogspot.com/" target="_blank"><br /><span style="font-size: small;">https://jasaexpedisidisurabaya.blogspot.com/</span></a></span><span style="font-size: small;">&nbsp;</span></span></h1>
 </div>
 <div class="font-company">
 <span class="ctrl ctrl_companyprofile" contenteditable="false" rel="ctrl ctrl_companyprofile">Selamat Datang di Blog Website <a href="https://jasaexpedisidisurabaya.blogspot.com/" target="_blank">PT. Aura Abadi Cargo</a>.
@@ -24,3 +24,15 @@ ton, dan truk peti kemas. untuk pengiriman dengan menggunakan kontainer 20F jika
 <span class="ctrl ctrl_companyprofile" contenteditable="false" rel="ctrl ctrl_companyprofile">Wilayah yang sudah bisa di jangkau oleh PT. AURA ABADI CARGO dengan 
 menggunakan kontainer / peti kemas ini adalah kalimantan, sulawesi, ambon, maluku, irian jaya, jayapura, biak, timika, manokwari, bali, waingapu, kupang, dan beberapa kota lain di Indonesia.</span><br />
 <div class="font-company">
+<span class="ctrl ctrl_companyprofile" contenteditable="false" rel="ctrl ctrl_companyprofile"><br /></span></div>
+<div class="font-company">
+<span class="ctrl ctrl_companyprofile" contenteditable="false" rel="ctrl ctrl_companyprofile">Temukan berbagai produk terbaik 
+kami 
+(Jasa Pengiriman, Jasa Pengiriman Material Konstruksi, Jasa Pengiriman 
+Mobil, Jasa Pengiriman Container, Jasa Pengiriman Alat Berat, Jasa Sewa 
+Kapal Cargo)
+dengan kualitas dan harga jual terbaik yang bisa Anda dapatkan.</span></div>
+</div>
+<span class="ctrl ctrl_companyprofile" contenteditable="false" rel="ctrl ctrl_companyprofile">
+</span></div>
+<br />
